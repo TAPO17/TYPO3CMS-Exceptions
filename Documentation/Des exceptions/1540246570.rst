@@ -1,10 +1,10 @@
-.. include:: /Includes.rst.txt
+.. Inclure :: /Includes.rst.txt
 
 ==========================
 TYPO3 Exception 1540246570
 ==========================
 
-.. include:: /If-you-encounter-this-exception.rst.txt
+.. Inclure :: /If-you-encounter-this-exception.rst.txt
 
 It happens when i create a content element of type Plugin and forget to
 choose the specific Plugin from the tab 'Plug-in'
@@ -12,7 +12,8 @@ choose the specific Plugin from the tab 'Plug-in'
 --------------
 
 Occures if you pass the wrong pluginType to
-TYPO3\CMS\Extbase\Utility\ExtensionUtility::configurePlugin(...)
+TYPO 3 \CMS\Exobase\Utilité\ExtensionUtility 
+configurePlugin(...)
 
 You have removed Typoscript by Conditon?
 =========================================
